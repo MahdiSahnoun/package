@@ -1,0 +1,17 @@
+{
+  "name": "princo",
+  "version": "2.2.5",
+  "description": "verification credits",
+  "main": "index.js",
+  "scripts": {
+    "test": "princo"
+  },
+  "author": "mahdi sahnoun",
+  "license": "ISC",
+  "keywords": [
+    "piximind/princo"
+  ],
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
